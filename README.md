@@ -1,0 +1,1 @@
+# Diabetic-Prediction-using-Logistic-Regression-minor-project-
