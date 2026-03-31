@@ -1,4 +1,3 @@
-# Diabetic-Prediction-using-Logistic-Regression-minor-project-
 # 🩺 Diabetes Prediction using Logistic Regression
 
 ## 📌 Description
@@ -102,7 +101,7 @@ The model will:
 
 ## 👨‍💻 Author
 
-**Pulkit Dev Kagra**
+**Pulkit Kagra**
 
 ---
 
