@@ -48,13 +48,13 @@ The dataset contains the following features:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://pulkitkagra25/Diabetic-Prediction-using-Logistic-Regression-minor-project-/.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd your-repo-name
+   cd Diabetic-Prediction-using-Logistic-Regression-minor-project-
    ```
 
 3. Install dependencies:
@@ -70,7 +70,7 @@ The dataset contains the following features:
 Run the Python file:
 
 ```bash
-python main.py
+python diabetic_prediction.ipynb
 ```
 
 The model will:
@@ -83,7 +83,7 @@ The model will:
 
 ## 📊 Results
 
-* Model Accuracy: XX%
+* Model Accuracy: 70%
 * Evaluation Metrics:
 
   * Confusion Matrix
@@ -101,7 +101,7 @@ The model will:
 
 ## 👨‍💻 Author
 
-**Pulkit Kagra**
+**Pulkit Dev Kagra**
 
 ---
 
